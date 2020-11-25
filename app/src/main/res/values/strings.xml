@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Abhisek WS Test</string>
+    <string name="first_name">First Name</string>>
+    <string name="email">Email</string>
+    <string name="cell">Cell</string>
+    <string name="networkerror">Please Check Your InterNet Connection</string>
+</resources>
